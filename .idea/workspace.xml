@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e141b379-e3eb-4fcd-9df8-c58d050da9d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/27.2.2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_27.2.2025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="e141b379-e3eb-4fcd-9df8-c58d050da9d9" name="Changes" comment="initial comm.">
+      <change afterPath="$PROJECT_DIR$/Lesson_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/complex_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gibranacademy7&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gibranacademy7/HW_27.2.2025_Garbage_Collector.git&quot;,
+    &quot;accountId&quot;: &quot;f2c03911-c3af-423b-bbfc-61d70c837d3a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2td5a0VZVOBX9qCm9gzYwrsYuh6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +49,8 @@
   "keyToString": {
     "Python.Ex.7.executor": "Run",
     "Python.HW_27.2.2025.executor": "Run",
+    "Python.Lesson_examples.executor": "Run",
+    "Python.complex_examples.executor": "Run",
     "Python.f.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -90,7 +97,20 @@
       <option name="presentableId" value="Default" />
       <updated>1740669172965</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="initial comm.">
+      <option name="closed" value="true" />
+      <created>1740985163751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1740985163751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial comm." />
+    <option name="LAST_COMMIT_MESSAGE" value="initial comm." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
